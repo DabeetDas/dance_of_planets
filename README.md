@@ -3,3 +3,4 @@ This repository contains the following files, their relevance is indicated again
 2. fina_dop: An h5 file containing the final weights and biases for the final mode.
 3. dance_of_planets_datagen.ipynb : Code to generate the dataset.
 4. dance_of_planets_nn_final.ipynb: Code for the final model used to make the necessary predicitions. Further, contains the input cell reqiured by the task.
+5. Poster: Submission for the design task.
